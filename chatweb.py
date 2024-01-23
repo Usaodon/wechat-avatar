@@ -63,13 +63,9 @@ def send_click():
 with st.sidebar:
     st.title('选择你的角色，给乌冬面发消息')
 
-    charactor = st.selectbox(' ', ('乌冬面女朋友', '乌冬面堂兄弟', '乌冬面研究生同学', '乌冬面本科同学', '乌冬面领导'))
+    charactor = st.selectbox(' ', ('你要扮演的角色'))
     charactor_lookup = {
-        '乌冬面女朋友': '老婆',
-        '乌冬面堂兄弟': '堂哥',
-        '乌冬面研究生同学': '祥',
-        '乌冬面本科同学': '丁丁',
-        '乌冬面师兄': '向元新'
+        '你要扮演的角色': '微信昵称 ',
     }
 
     role = charactor_lookup[charactor]
