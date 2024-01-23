@@ -263,7 +263,7 @@ python chatweb.py
 
 还有一些比较有意思的回复就不贴了（不太文明），这里再贴一些回复的比较好的例子，例如叫我上号打游戏的：
 
-<img src="https://s2.loli.net/2024/01/22/JkmeqWaU64cvLRx.png" alt="image-20231102102904194" style="zoom: 25%;" />
+<img src="https://s2.loli.net/2024/01/22/JkmeqWaU64cvLRx.png" style="zoom: 25%;" />
 
 ![image-20231102102931566](https://s2.loli.net/2024/01/22/74d3QhTaDs5AlFp.png)
 
